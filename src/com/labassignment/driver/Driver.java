@@ -44,7 +44,7 @@ public class Driver{
         
         //Creating new employee
         Employee empl = new Employee(firstName, lastName, deparments[choice-1]);
-        String email = credSer.generateEmail(empl.getFirstName(), empl.getLastName(), empl.getDepartmentName());
+        String email = credSer.generateEmailAddress(empl.getFirstName(), empl.getLastName(), empl.getDepartmentName());
         char[] password = credSer.generatePassword();
         
         //Show credentials
