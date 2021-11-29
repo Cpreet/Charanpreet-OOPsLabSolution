@@ -38,6 +38,6 @@ not a valid choice
 3
 Hi John your generated credentials are: 
 Email ---> johndoe@humanresources.labassignment.com
-Password ---> oBaark?&
+Password ---> Bo1*rk?&
 ```
 
